@@ -11,4 +11,4 @@ This repo provides resources for learning and demonstrating HashiCorp Vault, inc
 
 
 
-![Vault Technical Enablement](images/vteroadmap/jpg)
+![Vault Technical Enablement](images/vteroadmap.png)
