@@ -9,3 +9,6 @@ This repo provides resources for learning and demonstrating HashiCorp Vault, inc
 - [Automation & Integration Level - L3](roadmap/L3-automation.md)
 - [Expert & Maintenance Level - L4](roadmap/L4-expert.md)
 
+
+
+![Vault Technical Enablement](images/vteroadmap/jpg)
