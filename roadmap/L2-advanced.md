@@ -1,5 +1,5 @@
 # [Advanced Level](https://youtu.be/deR8sX91rUQ)
-> Master Vault for production-ready] systems, automation, and scaling
+> Master Vault for production-ready systems, automation, and scaling
     
 | Phase | Activities | Deliverables |
 | --- | --- | --- |
