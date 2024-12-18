@@ -3,8 +3,7 @@ This repo provides resources for learning and demonstrating HashiCorp Vault, inc
 
 ![Vault Technical Enablement](images/vault-roadmap.webp)
 
-[L0 - Foundation Level](roadmap/L0-foundation.md) 
-    </br> Understand the basics of Vault and its core concepts.
+[L0 - Foundation Level](roadmap/L0-foundation.md) :Understand the basics of Vault and its core concepts.
 </br>[L1 - Intermediate Level](roadmap/L1-intermediate.md) 
     </br> Implement Vault in real-world scenarios and understand operational management.
 </br>[L2- Advanced Level](roadmap/L2-advanced.md)
