@@ -13,7 +13,9 @@ This repo provides resources for learning and demonstrating HashiCorp Vault, inc
 </br>[L4- Expert & Maintenance Level](roadmap/L4-expert.md)
     </br>Continuously optimize, monitor, and enable others to use Vault effectively.
 </br> ⚙️ [Deploy Vault using GitOps](https://github.com/cloud-native-toolkit/multi-tenancy-gitops/blob/master/doc/ibm-vault-recipe.md)
+    </br> Assuming you got an OpenShift cluster ready with GitOps operator installed, follow the recipe step-by-step to be able to deploy Vault.
 </br> 🚀 [Vault Associate Exam Prepration](https://github.com/therayy/Vault-Associate)
+    </br> A 100 Q & A's specially made for you to help you pass and earn the Vault Associate Certification exam.
 
 ## Thank You!
 
